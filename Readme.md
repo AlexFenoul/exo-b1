@@ -18,7 +18,9 @@ Pour ce projet, le client te demande de reproduire le site web envoyé en pdf so
 ### Couleurs :
 
 Navbar : #343a40
+
 Content : #202225
+
 Hover & button : #2196f3 
 
 Pour les icons, utilisations de FontAwesome
